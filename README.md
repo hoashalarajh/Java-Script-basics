@@ -1,5 +1,5 @@
 # Java-Script-basics
-This includes variuos mall code chunks to learn baic conceptual understanding of Java Script - In My Opinon if you know basic python follwoing Java Scripta is much easier.
+This includes variuos mall code chunks to learn baic conceptual understanding of Java Script - In My Opinon if you know basic python follwoing Java Script is much easier.
 
 Building a comprehensive understanding of JavaScript can be effectively achieved through exposure to various small code snippets. These examples provide hands-on experience with fundamental concepts, solidifying knowledge and fostering practical application.
 
